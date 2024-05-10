@@ -1,0 +1,14 @@
+
+
+
+https://blog.kubesimplify.com/getting-started-with-kind-creating-a-multi-node-local-kubernetes-cluster
+
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+
+https://medium.com/@talhakhalid101/creating-a-kubernetes-cluster-for-development-with-kind-189df2cb0792
+
+https://github.com/NexClipper/kind-setup-external-ip
+
+https://kind.sigs.k8s.io/docs/user/loadbalancer/
+
+https://shallwelearn.com/2024/03/04/use-kind-and-k9s-to-learn-kubernetes-locally-on-ubuntu/
